@@ -1,0 +1,19 @@
+.gittu{
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: overline;
+    color: blueviolet;
+    background-color: beige;
+}
+.blog{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+    color: #ffff;
+    border: 10px solid #bbb;
+    border-radius: 15px;
+    margin: 30px;
+    padding: 30px;
+}
